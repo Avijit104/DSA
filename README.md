@@ -1,3 +1,19 @@
-## This is a repositery for learning DSA
+# DSA
 
-In this i have used Python as my preferd choice of language
+- This is a repositery for learning DSA
+
+- In this i have used Python and Java both as my preferd choice of language
+
+<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="100" height="100">
+
+## Array
+
+1. Largest Element
+2. Second Largest Element
+3. Check an array is sorted or not
+4. Remove Duplicates
+5. Left rotate by one places
+6. Left rotate by k places
+7. Right rotate
+8. Move all zeros to end

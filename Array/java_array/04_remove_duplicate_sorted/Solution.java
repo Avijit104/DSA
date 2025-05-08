@@ -1,0 +1,23 @@
+public class Solution {
+    public int removeDuplicate(int[] nums, int length){
+        int j = 1;
+        for (int i = 1; i<length ; i++){
+            if(nums[i] != nums[i-1]){
+                nums[j] = nums[i];
+                j++;
+
+            }
+        }
+        return j;
+    }
+
+    public static void main(String[] args){
+        int arr[] = {1,2,2,2,3,3,4,4,5};
+        Solution s = new Solution();
+        int len = s.removeDuplicate(arr, arr.length);
+        for(int i = 0; i<len; i++){
+            System.out.println(arr[i]);
+        } 
+        System.out.println("length is "+len);
+    }
+} 
