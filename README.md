@@ -17,3 +17,4 @@
 6. Left rotate by k places
 7. Right rotate
 8. Move all zeros to end
+9. Linear search

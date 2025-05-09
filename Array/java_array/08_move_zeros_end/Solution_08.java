@@ -1,4 +1,4 @@
-public class Solution {
+public class Solution_08 {
     public void moveZerosEnd(int[] arr, int length) {
         int j = 0;
         int temp;
@@ -15,7 +15,7 @@ public class Solution {
 
     public static void main(String[] args) {
         int arr[] = { 1, 2, 0, 0, 0, 3, 0, 4 };
-        Solution s = new Solution();
+        Solution_08 s = new Solution_08();
         s.moveZerosEnd(arr, arr.length);
         for (int i = 0; i < arr.length; i++) {
             System.out.println(arr[i]);
