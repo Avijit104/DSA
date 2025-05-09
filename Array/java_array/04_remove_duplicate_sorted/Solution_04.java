@@ -1,4 +1,6 @@
 public class Solution_04 {
+
+    // Optimal Solution
     public int removeDuplicate(int[] nums, int length) {
         int j = 1;
         for (int i = 1; i < length; i++) {

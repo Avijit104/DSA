@@ -18,3 +18,10 @@
 7. Right rotate
 8. Move all zeros to end
 9. Linear search
+10. Union of two sorted array
+11. Intersection of two sorted array
+12. Missing number in array of 1 to N
+13. Maximum consecutive ones
+14. Find the element that appears only once
+15. Longest sub array of sum k (only positive)
+16. longest sub array of sum k (positive + negative)

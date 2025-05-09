@@ -1,6 +1,7 @@
 
 public class Solution_05 {
 
+    // Optimal Solution
     public void rotateLeftOne(int[] arr, int length) {
         int temp = arr[0];
         for (int i = 1; i < length; i++) {

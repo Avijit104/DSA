@@ -1,4 +1,6 @@
 public class Solution_02 {
+
+    // Optimal Solution
     public int secondLargest(int[] nums, int length) {
         int sLargest = -1;
         int largest = -1;

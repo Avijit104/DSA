@@ -1,4 +1,6 @@
 public class Solution_03 {
+
+    // Optimal Solution
     public boolean checkSorted(int[] nums, int length) {
         for (int i = 1; i < length; i++) {
             if (nums[i] < nums[i - 1]) {

@@ -1,4 +1,6 @@
 class Solution:
+    
+    # Optimal Solution
     def linearSearch(self, arr, num):
         for i in range(0, len(arr)):
             if arr[i] == num:
