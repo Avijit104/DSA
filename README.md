@@ -25,3 +25,8 @@
 14. Find the element that appears only once
 15. Longest sub array of sum k (only positive)
 16. longest sub array of sum k (positive + negative)
+17. Two sum posibility
+18. Two sum
+19. Sort array of 0's 1's and 2's
+20. Mejority element in an array
+21. Maximum sub array sum
