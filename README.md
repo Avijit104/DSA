@@ -30,3 +30,4 @@
 19. Sort array of 0's 1's and 2's
 20. Mejority element in an array
 21. Maximum sub array sum
+22. Rearrange elements (equal number of positive and negative)
