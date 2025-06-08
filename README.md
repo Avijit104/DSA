@@ -31,3 +31,5 @@
 20. Mejority element in an array
 21. Maximum sub array sum
 22. Rearrange elements (equal number of positive and negative)
+23. Rearrange elements (not equal number of positive and negative)
+24. Next permutaiton of array
