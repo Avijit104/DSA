@@ -62,6 +62,7 @@ class BinaryTree:
                 else: 
                     break
             front +=1
+        print(queue)
     
     
 preOrder = [1,2,6, -1, -1,-1,3,4,-1,-1,5,-1,-1]
@@ -74,3 +75,4 @@ print()
 bt.postOrderTraversal(root)
 print()
 bt.levelOrderTraversal(root)
+print(( 0== 0) + 1)
