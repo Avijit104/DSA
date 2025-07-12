@@ -24,6 +24,6 @@ class Solution:
 
 
 s = Solution()
-arr = [-1, 1, 1]
-k = 1
+arr = [1,2,3,1,1,-1,1,1,4,2,3]
+k = 3
 print(s.longestSubArraySumNegative(arr, k))
