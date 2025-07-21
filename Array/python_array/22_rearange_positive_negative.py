@@ -31,4 +31,6 @@ arr = [3,1,-2,-5,2,-4]
 s.rearrangeArray(arr=arr)
 print(arr)
 print("Optimal Solution")
-print(s.rearangeArrayOptimal(arr))
+print(s.rearrangeArrayOptimal(arr))
+arr.remove(3)
+print(arr)
