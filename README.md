@@ -37,6 +37,7 @@
 26. Longest consicutive sequence
 27. Longest commin prefix
 28. Remove element
+29. Search insert posiont(sorted array)
 
 ## Tree
 
