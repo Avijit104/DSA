@@ -1,3 +1,6 @@
+from typing import List
+
+
 class Solution:
     def longestCommonPrefix(self, arr: List[str]) -> str:
         minLength = arr[0]
