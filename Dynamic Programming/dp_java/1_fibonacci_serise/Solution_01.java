@@ -20,9 +20,23 @@ class Solution_01 {
 
     }
 
+    // Optimal Solution
+    public int fibOptimal(int n) {
+        int curr = 0;
+        int prev = 0;
+        int prev1 = 1;
+        for (int i = 2; i <= n; i++) {
+            curr = prev + prev1;
+            prev = prev1;
+            prev1 = curr;
+        }
+        return curr;
+    }
+
     public static void main(String[] args) {
         int n = 6;
         Solution_01 s = new Solution_01();
         System.out.println("result is " + s.fib(n));
+        System.out.println(s.fibOptimal(n));
     }
 }
