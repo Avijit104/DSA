@@ -38,6 +38,24 @@
 27. Longest commin prefix
 28. Remove element
 29. Search insert posiont(sorted array)
+30. Merge two sorted array
+31. Sorted array to Binary Search Tree(BST)
+32. Maximum unique subarray sum after deletion of array elemnets
+
+## String
+
+1. Keypad phone combination
+2. Roman number to decimal number
+3. Decimal Number to roman number
+4. Find a number is palendrom or not
+5. String to integer (implementation of atoi function)
+6. Reverse a number
+
+## Linked List
+
+- Implementation of linked list
+
+1. Remove nth node form the back
 
 ## Tree
 
