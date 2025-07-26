@@ -22,6 +22,9 @@ class Solution_01 {
 
     // Optimal Solution
     public int fibOptimal(int n) {
+        if (n <= 1) {
+            return n;
+        }
         int curr = 0;
         int prev = 0;
         int prev1 = 1;

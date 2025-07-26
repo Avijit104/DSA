@@ -15,6 +15,8 @@ class Solution:
     
     # Optimal Solution
     def fibOptimal(self, n):
+        if n <= 1:
+            return n
         prev = 0
         prev1 = 1
         for i in range(2, n+1):
