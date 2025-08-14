@@ -5,7 +5,7 @@ public class Solution_1 {
     ArrayList<String> res = new ArrayList<>();
     static HashMap<String, String> map = new HashMap<>();
 
-    public void backtrack(int idx, String str, String digits) {
+    void backtrack(int idx, String str, String digits) {
         if (idx == digits.length()) {
             res.add(str);
             return;
@@ -35,7 +35,7 @@ public class Solution_1 {
 
     public static void main(String[] args) {
         String str = "23";
-        Solution_32 s = new Solution_32();
+        Solution_1 s = new Solution_1();
         s.combinationPhone(str);
         for (String i : s.res) {
             System.out.print(i + ", ");
