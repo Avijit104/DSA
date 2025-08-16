@@ -50,6 +50,11 @@
 4. Find a number is palendrom or not
 5. String to integer (implementation of atoi function)
 6. Reverse a number
+7. Valid parentheses
+8. Generate valid parentheses
+9. Find the index of the first occurance
+10. Count and say(RLE)
+11. Multiply strings(without directly converting the input)
 
 ## Linked List
 
